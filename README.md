@@ -10,9 +10,9 @@ Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
 - [Bruna Eduarda Henz](https://github.com/brunahenz)
-- [Manuela Pereira dos Santos](github.com/asantosmanu)
-- [Miguel Sousa Martins](github.com/miguelmartix)
-- [Vitória Camile dos Santos](github.com/Vi140906)
+- [Manuela Pereira dos Santos](https://github.com/asantosmanu)
+- [Miguel Sousa Martins](https://github.com/miguelmartix)
+- [Vitória Camile dos Santos](https://github.com/Vi140906)
 
 
 Links do projeto:
