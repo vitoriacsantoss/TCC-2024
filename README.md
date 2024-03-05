@@ -19,7 +19,7 @@ Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
 -   [Documentação (esse documento)](https://github.com/Vi140906/TCC-2024)
 -   Backend: [Repositório](github.com/marcoandre/pi-backend) e [Publicação](https://pi-backend.herokuapp.com/)
--   Frontend: [Repositório](github.com/marcoandre/pi-frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
+-   Frontend: [Repositório](https://github.com/Vi140906/HackatonIntegrado) e [Publicação](http://inovahouse.surge.sh/)
 
 **Como usar esse modelo para o Projeto Integrador**
 
