@@ -4,7 +4,7 @@
 Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
 *(Um site de imobiliária baseado no site "RAFAEL FONSECA", que consiste em vendas de imoveis em diferentes lugares. Contendo o acesso de cadastro para o cliente quanto para anunciar seu imóvel. )*
 
-**IMPORTANTE**: [**Cadastre seu projeto nesse link**](https://docs.google.com/spreadsheets/d/165xR63Yy9C75saQX-I_RsZV-hTrdiToei5Ave0JU1uQ/edit?usp=sharing).
+**IMPORTANTE**: [**Cadastre seu projeto nesse link**](https://github.com/Vi140906/HackatonIntegrado).
 
 Professor: [Marco André Mendes](github.com/marcoandre)
 
