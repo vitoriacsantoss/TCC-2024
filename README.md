@@ -9,7 +9,7 @@ Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em D
 Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
-- [Bruna Eduarda Henz](github.com/brunahenz)
+- [Bruna Eduarda Henz](https://github.com/brunahenz)
 - [Manuela Pereira dos Santos](github.com/asantosmanu)
 - [Miguel Sousa Martins](github.com/miguelmartix)
 - [Vitória Camile dos Santos](github.com/Vi140906)
