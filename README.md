@@ -67,15 +67,12 @@ Sr. Sálvio, nosso cliente, fez um curso de manutenção de celulares e smartpho
 
 # 2. Situação Problema
 
-*(Nessa parte a equipe deve descrever a situação problema que será resolvida pelo sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.)*
+*(Nossa equipe se depara com o desafio de melhorar a eficiência e a experiência dos usuários ao buscar e comercializar imóveis por meio de um site de imobiliária. Atualmente, os clientes enfrentam dificuldades para encontrar propriedades que atendam às suas necessidades específicas, enquanto os corretores lidam com um processo complexo e demorado de gestão de listagens e negociações. Este projeto visa desenvolver um sistema que simplifique a busca por imóveis, ofereça recursos avançados de filtragem e otimize o processo de venda e aluguel, proporcionando uma experiência mais fluida e satisfatória para todos os envolvidos.)*
 
 ![Ciclo da Venda](docs/ciclo_da_venda.webp "Ciclo da Venda")
 
-Descrevem o que acontece atualmente na empresa em um contexto global,
-abordando o funcionamento da empresa como um todo, não apenas os “problemas” que lá ocorrem.
+A empresa de imobiliária atualmente opera em um contexto global dinâmico, envolvendo uma ampla gama de atividades além da simples transação de imóveis, como gestão de propriedades e consultoria imobiliária. Antes da implementação do novo software, o processo de interação com os clientes era principalmente manual, com desafios na gestão de leads e comunicação personalizada. O site da empresa, a ser projetado no Figma, incluirá páginas de login, contato e busca de imóveis, visando oferecer uma experiência de usuário aprimorada e aumentar a eficiência operacional. O novo software promete revolucionar a forma como a empresa interage com os clientes, tornando os processos mais eficientes e a comunicação mais personalizada.
 
-Sabendo disso, seu papel é **detalhar o funcionamento da empresa escolhida na
-atualidade, ou seja, antes de seu novo software**, usando como base a situação que passamos, mas aprofundando os detalhes de como as coisas acontecem.
 
 -   Pesquise sobre empresas do ramo escolhido
     para entender como funcionam;
