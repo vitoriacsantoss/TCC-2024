@@ -81,7 +81,10 @@ A situação-problema que enfrentamos na INOVAHOUSE está relacionada à necessi
 
 # 3. Descrição da proposta
 
-Após entender o problema, proponha uma solução que será útil nos aspectos de dificuldade encontrados. Assim, aqui você deverá **explicar de maneira resumida, e preferencialmente mais textual, como o software funcionará**. Pense nesse texto como uma **introdução ao seu cliente** do que você pretende fazer por ele, para que ele confirme se realmente está dentro do desejado e permita sua continuidade.
+Imagine uma ferramenta que simplifica cada etapa do processo, desde a listagem de novas propriedades até o fechamento de negócios com clientes satisfeitos. Nosso software foi projetado com foco nas suas necessidades específicas, combinando funcionalidades intuitivas com recursos avançados para oferecer uma experiência incomparável. Com nossa plataforma, você poderá
+°Atualizar facilmente as listagens de propriedades com apenas alguns cliques, garantindo que todas as informações estejam sempre precisas e atualizadas.
+°Sistema de agendamento integrado permite que você gerencie visitas de clientes de forma eficiente, maximizando o tempo e aumentando as chances de conversão.
+
 
 **Alguns pontos importantes a se destacar são:**
 
