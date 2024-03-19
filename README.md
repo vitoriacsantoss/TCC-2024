@@ -44,26 +44,34 @@ Links do projeto:
 
 **1.1.1 Ponto de Vendas (PDV)**
 
-**Gerenciamento de vendas para uma padaria**
+**Gerenciamento de vendas para uma imobiliária**
 
-O nosso cliente, Sr. Genival, tem uma padaria de bairro chamada padaria Pão Genial e, devido a qualidade de seus produtos, ela está crescendo rapidamente. Recentemente, ele contratou mais funcionários para atendimento, caixa, panificação, etc.
-Assim, atualmente, ele consegue concentrar seus esforços para melhorar a gestão da padaria. Para isso, ele quer instalar um sistema de controle de vendas que permita ao caixa lançar as vendas realizadas. Como sua intenção
-é melhorar a gestão do negócio, é muito importante que ele consiga ter
-relatórios, como por exemplo, de vendas.
+A imobiliária Inova House é um site de compra e venda de imóveis. O site possui uma interface moderna,  segura, responsiva, eficiente e acessível para todos os usuários, um ponto de referência para quem busca encontrar o lar dos sonhos ou investir em propriedades promissoras na região. 
+O sistema conta com duas páginas de logins, que diferenciam o corretor do imóvel com o cliente interessado na compra dele. O cliente, após o login, terá acesso aos imóveis e suas respectivas características. O cliente também poderá filtrar suas buscas através de formulários, por exemplo: localização do imóvel, quantidade de quartos, banheiros, suítes, sacadas etc. O cliente irá contar também com uma página de contato, onde poderá enviar mensagens de interesse sobre algum imóvel, ou até dúvida.
+Com relação ao corretor, que poderá cadastrar os imóveis, ele contará com o acesso ao banco de dados, podendo adicionar, atualizar ou até deletar as informações, sendo elas imagens, ou descrições dos imóveis. Esse sistema permitirá que seus agentes registrem todas as transações imobiliárias realizadas, sendo elas vendas de casas ou apartamentos.
+A parte de cadastro dos usuários contarão com as seguintes informações a serem preenchidas:
+Nome;
+Email;
+Celular;
+CEP;
+Cidade;
+Bairro;
+Endereço;
+Número;
+Senha.
+Os dados correspondentes às descrições dos imóveis serão:
+Preço;
+Fotos;
+Localização;
+Número;
+Metragem;
+Quantidade de quartos;
+Quantidade de banheiros;
+Quantidade de suítes;
+Comodidades.
 
-**1.1.2 Empréstimo**
 
-**Gerenciamento de uma biblioteca**
 
-Uma ONG, chamada Sala Arco Íris, ajuda crianças de baixa renda em sua educação básica. Atualmente, recebeu uma doação de mais de 1000 livros e está montando a sua biblioteca. Eles querem emprestar os livros para as crianças e os pais das crianças. Apesar de
-terem um computador e as estantes necessárias à disposição nessa nova biblioteca, não possuem verba suficiente para um leitor de impressão digital ou para produção
-de carteirinhas para todas as crianças. Para isso, eles precisam de um sistema que gerencie todo o acervo, empréstimos, livros disponíveis, etc. mas que isso ocorra de maneira simples e sem necessidade de novos gastos. Também é importante que haja relatórios, permitindo o controle dos empréstimos e dos livros disponíveis no acervo.
-
-**1.1.3 Ordem de Serviço (O.S.)**
-
-**Manutenção de computadores**
-
-Sr. Sálvio, nosso cliente, fez um curso de manutenção de celulares e smartphones e decidiu abrir um negócio no qual ele é responsável pelos consertos e sua esposa, Marília, realiza o atendimento aos clientes. Com sua visão empreendedora, ele sentiu a necessidade de um software que auxilie sua esposa nas tarefas diárias. Para isso, ele deseja um sistema que gerencie os clientes, orçamentos, serviços e retirada dos equipamentos. Sendo um negócio pequeno, é muito importante para ele conseguir ter relatórios que o ajudem na gestão da empresa, como o status dos serviços.
 
 # 2. Situação Problema
 
