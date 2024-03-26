@@ -98,15 +98,10 @@ Imagine uma ferramenta que simplifica cada etapa do processo, desde a listagem d
 
 
 **Alguns pontos importantes a se destacar são:**
-
--   **Qual o foco de ação do software** relacionado com os problemas levantados na análise da situação-problema. O que realmente o software vai fazer. Por exemplo, o foco de ação do Gmail é permitir o envio e recebimento de e-mails.
--   **Os níveis de usuário do sistema**. Somente o gestor tem acesso? E os funcionários? Talvez seja para ambos, ou para funcionários de cargos
-    diferentes, etc.
--   **O que poderá ser feito no software**.Apenas o principal, sem pensar em telas ou detalhes específicos, pois isso será feito em outro momento.
--   **Se houver mais de um nível de usuário**, ressaltar as diferenças entre eles na descrição da proposta.
-
-Tenha em mente que essa é uma etapa relativamente breve. Não é necessário um texto gigantesco, apenas dar uma noção do funcionamento do sistema. Mais adiante
-precisaremos ser bem detalhistas, todavia agora a intenção é apenas fazer algo que permita ao cliente nos dizer se estamos no caminho certo.
+O foco de ação da imobiliária é gerenciar vendas através de relatórios trimestrais.
+Os níveis de usuários do sistema. O cliente tem acesso ao login somente para efetuar compras. O corretor tem acesso a todas as funções, incluindo o gerenciamento dos imóveis.
+O que poderá ser feito no software. Navegação pelo sistema, agendamento de visitas e cadastro dos  imóveis.
+Se houver mais de um nível de usuário. O cliente terá o acesso a navegação pelo site e o agendamento de visitas, enquanto o corretor poderá cadastrar imóveis.   
 
 # 4. Modelagem de Dados
 
